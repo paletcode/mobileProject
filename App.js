@@ -14,10 +14,9 @@ export default function App() {
       <View
         style = {menuStyles.container}>
         <LittleLemonHeader />
-        <TextDescription />
-        <FeedBackForm />
+        <SectionListTest/>
       </View>
-  
+       
 
       <View>
         <Footer/>
